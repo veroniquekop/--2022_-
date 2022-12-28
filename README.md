@@ -24,6 +24,7 @@
 
 Нами была добавлена колонка с вероятностью предварительного диагноза того или иного заболевания, что помогает оценить качество обучения модели.
 
-Поэксперементировать с моделью можно по ссылке: https://colab.research.google.com/drive/1vbbhIVqYshl74TwtnNetRfzJzoc3Ud3I#scrollTo=ngvSsPyrqm_V
+Поэксперементировать с моделью можно по ссылке: https://colab.research.google.com/drive/1vbbhIVqYshl74TwtnNetRfzJzoc3Ud3I#scrollTo=ngvSsPyrqm_V (v.1),
+https://colab.research.google.com/drive/15eFhlFTSVBQ9NAzG4XEbHKBmLS_bNsm7?usp=share_link (v.2)
 
 Безусловно, в нашем проекте присутствуют точки роста, как в плане обучения модели, так и дальнейшего сбора датасета.
